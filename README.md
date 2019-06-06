@@ -1,2 +1,2 @@
 # AI
-Learning AI
+AI basics using python
